@@ -1,1 +1,2 @@
 welcome to git-tech
+github is a open source platform which enables the collabartion
